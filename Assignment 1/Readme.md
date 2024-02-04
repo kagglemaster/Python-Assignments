@@ -1,1 +1,1 @@
-if else & elif practice assignment
+Assignment #01 (if else & elif)
